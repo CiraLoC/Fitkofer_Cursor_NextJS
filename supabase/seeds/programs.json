@@ -1,0 +1,47 @@
+[
+  {
+    "key": "fat_loss_home",
+    "title": "Fat Loss Home",
+    "description": "Low impact strength and conditioning plan designed for home equipment.",
+    "level": "beginner",
+    "meta": {
+      "equipment": ["bands", "dumbbells"],
+      "condition_safe": {
+        "postpartum": true,
+        "ir": true,
+        "hashimoto": true,
+        "pcos": true
+      }
+    }
+  },
+  {
+    "key": "recomp_gym",
+    "title": "Recomp Gym",
+    "description": "Moderate volume resistance program for recomposition at the gym.",
+    "level": "intermediate",
+    "meta": {
+      "equipment": ["gym"],
+      "condition_safe": {
+        "postpartum": false,
+        "ir": true,
+        "hashimoto": true,
+        "pcos": true
+      }
+    }
+  },
+  {
+    "key": "glute_home",
+    "title": "Glute Home",
+    "description": "Glute focused progressive program with limited equipment.",
+    "level": "beginner",
+    "meta": {
+      "equipment": ["bands", "dumbbells"],
+      "condition_safe": {
+        "postpartum": true,
+        "ir": true,
+        "hashimoto": true,
+        "pcos": true
+      }
+    }
+  }
+]

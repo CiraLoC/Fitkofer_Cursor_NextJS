@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Berry Protein Overnight Oats",
+    "preset_key": "deficit_basic",
+    "kcal": 420,
+    "macros": { "protein": 32, "carbs": 48, "fat": 12 },
+    "recipe_url": "https://example.com/overnight-oats",
+    "grocery": [
+      { "item": "Rolled oats", "qty": "400g" },
+      { "item": "Frozen berries", "qty": "300g" },
+      { "item": "Chia seeds", "qty": "120g" },
+      { "item": "Vanilla protein powder", "qty": "300g" }
+    ]
+  },
+  {
+    "title": "Sheet Pan Fajita Bowls",
+    "preset_key": "recomp_basic",
+    "kcal": 520,
+    "macros": { "protein": 38, "carbs": 54, "fat": 18 },
+    "recipe_url": "https://example.com/fajita-bowls",
+    "grocery": [
+      { "item": "Chicken breast", "qty": "900g" },
+      { "item": "Bell peppers", "qty": "4" },
+      { "item": "Red onion", "qty": "2" },
+      { "item": "Brown rice", "qty": "500g" }
+    ]
+  },
+  {
+    "title": "Hashimoto-Friendly Lentil Soup",
+    "preset_key": "hashimoto_friendly",
+    "kcal": 410,
+    "macros": { "protein": 24, "carbs": 55, "fat": 10 },
+    "recipe_url": "https://example.com/lentil-soup",
+    "grocery": [
+      { "item": "Dry lentils", "qty": "600g" },
+      { "item": "Bone broth", "qty": "2l" },
+      { "item": "Carrots", "qty": "4" },
+      { "item": "Celery", "qty": "4 stalks" }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "title": "20-Min Express Strength",
+    "focus": "full_body",
+    "duration_min": 20,
+    "equipment": ["bands"],
+    "video_url": "https://youtu.be/example1",
+    "steps": [
+      { "name": "Band Good Morning", "sets": 3, "reps": "12" },
+      { "name": "Alternating Reverse Lunge", "sets": 3, "reps": "10e" },
+      { "name": "Half Kneeling Press", "sets": 3, "reps": "8e" }
+    ]
+  },
+  {
+    "title": "Cycle-Friendly Mobility",
+    "focus": "mobility",
+    "duration_min": 15,
+    "equipment": [],
+    "video_url": "https://youtu.be/example2",
+    "steps": [
+      { "name": "Cat Camel", "duration": "60s" },
+      { "name": "Lying 90/90 Hips", "duration": "2m" },
+      { "name": "Child's Pose Breathing", "duration": "2m" }
+    ]
+  },
+  {
+    "title": "Glute Mini-Band Burn",
+    "focus": "glute",
+    "duration_min": 25,
+    "equipment": ["bands"],
+    "video_url": "https://youtu.be/example3",
+    "steps": [
+      { "name": "Banded Hip Hinge", "sets": 3, "reps": "15" },
+      { "name": "Side-Lying Abduction", "sets": 3, "reps": "12e" },
+      { "name": "Quadruped Kickback", "sets": 3, "reps": "15e" }
+    ]
+  },
+  {
+    "title": "12-Min Micro Walk",
+    "focus": "neat",
+    "duration_min": 12,
+    "equipment": [],
+    "video_url": "https://youtu.be/example4",
+    "steps": [
+      { "name": "Brisk Walk", "duration": "12m" }
+    ]
+  },
+  {
+    "title": "Gym Lower Power",
+    "focus": "lower_body",
+    "duration_min": 35,
+    "equipment": ["gym"],
+    "video_url": "https://youtu.be/example5",
+    "steps": [
+      { "name": "Trap Bar Deadlift", "sets": 4, "reps": "6" },
+      { "name": "Leg Press", "sets": 3, "reps": "10" },
+      { "name": "Cable Face Pull", "sets": 3, "reps": "12" }
+    ]
+  }
+]
